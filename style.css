@@ -1,0 +1,25 @@
+.container{
+    text-align:center;
+    display: flex;
+    align-items: center;
+    margin-left: 500px;
+}
+td{
+    border: 2px solid rgb(68, 80, 192);
+    padding: 10px;
+    color: rgb(13, 106, 149);
+    text-align: center;
+    font-weight: bold;
+    font-size: large;
+    text-transform: uppercase;
+}
+button:hover{
+    background-color: rgb(127, 174, 170);
+    cursor: pointer;
+    font-weight: bolder;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: crimson;
+    text-align: center;
+}
